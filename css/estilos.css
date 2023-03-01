@@ -52,3 +52,11 @@ body
     background-color: white;
     padding: 1cm;
 }
+
+#footer {
+    background-color: #777;
+    color: white;
+    padding: 0.2cm;
+    font-size: 12px;
+    text-align: center;
+}
